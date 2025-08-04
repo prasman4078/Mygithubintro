@@ -1,0 +1,6 @@
+ctrl + a --> to select all
+ctrl + c --> interrupt  or come  out
+ctrl + d --> exit or logout
+ctrl + u --> delete line
+ctrl + w --> delete a word
+ctrl + e --> end of line
