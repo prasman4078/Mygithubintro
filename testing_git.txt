@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is testing your guthub knowledge"
+echo "This is testing your github knowledge"
